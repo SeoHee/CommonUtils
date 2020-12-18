@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-758522453/BaseMvpSample.iml" filepath="$PROJECT_DIR$/.idea/modules/-758522453/BaseMvpSample.iml" group="BaseMvpSample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2048124861/app.iml" filepath="$PROJECT_DIR$/.idea/modules/2048124861/app.iml" group="BaseMvpSample/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-520859940/libCustomViews.iml" filepath="$PROJECT_DIR$/.idea/modules/-520859940/libCustomViews.iml" group="BaseMvpSample/libCustomViews" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libUtils.iml" filepath="$PROJECT_DIR$/.idea/modules/libUtils.iml" group="BaseMvpSample/libUtils" />
+    </modules>
+  </component>
+</project>

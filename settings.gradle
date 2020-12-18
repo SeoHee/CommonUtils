@@ -1,0 +1,3 @@
+include ':libUtils'
+include ':app'
+rootProject.name = "CommonUtils"
